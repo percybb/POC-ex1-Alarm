@@ -1,0 +1,11 @@
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.Port.resources
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.Principal.resources
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\Alarm\Alarm\obj\Debug\Alarm.pdb
